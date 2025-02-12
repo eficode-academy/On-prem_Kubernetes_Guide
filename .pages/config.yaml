@@ -33,7 +33,7 @@ params:
 menu:
   shortcuts:
     - name: <i class='fab fa-fw fa-github'></i> GitHub Repo
-      url: https://www.github.com/hackerman/open-hack
+      url: https://github.com/eficode-academy/On-prem_Kubernetes_Guide
       weight: 1
     - name: <i class='fas fa-fw fa-book-open'></i> Docs Info
       url: /how-to/work-with-docs
@@ -45,7 +45,5 @@ module:
   mounts:
     - source: ../docs
       target: content
-    - source: ../README.md
-      target: content/_index.md
     - source: ../docs/readme
       target: content/docs/readme
