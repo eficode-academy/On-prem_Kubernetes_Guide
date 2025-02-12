@@ -1,10 +1,11 @@
 ---
-status: proposed
-date: 2025-02-12
-decision-makers: Alexandra Aldershaab
+title: Use Cillium as Network Plugin
 ---
 
-# Use Cillium as Network Plugin
+| status: | date: | decision-makers: |
+| --- | --- | --- |
+| proposed | 2025-02-12 | Alexandra Aldershaab |
+
 
 ## Context and Problem Statement
 

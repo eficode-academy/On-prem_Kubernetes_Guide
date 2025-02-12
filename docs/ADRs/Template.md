@@ -1,10 +1,13 @@
 ---
-status: "{proposed | rejected | accepted | deprecated | … | superseded by ADR-0123"
-date: {YYYY-MM-DD when the decision was last updated}
-decision-makers: {list everyone involved in the decision}
+title: #{short title, representative of solved problem and found solution}
 ---
 
-# {short title, representative of solved problem and found solution}
+| status: | date: | decision-makers: |
+| --- | --- | --- |
+| {"proposed | rejected | accepted | deprecated | … | superseded by ADR-0123"} | {YYYY-MM-DD when the decision was last updated} | {list everyone involved in the decision} |
+
+
+
 
 ## Context and Problem Statement
 

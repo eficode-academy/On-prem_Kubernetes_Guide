@@ -1,4 +1,7 @@
-# On-premises Kubernetes guide
+---
+title: On-premises Kubernetes guide
+---
+
 An opinionated guide to building and running your on-prem tech-stack for running Kubernetes.
 ## Introduction
 Deploying and operating Kubernetes on-premises is fundamentally different from doing so in the cloud. Without a managed control plane or provider-operated infrastructure, organizations must take full ownership of networking, security, and operational automation to ensure a stable and secure environment. The complexity of these decisions can quickly lead to fragmentation, inefficiency, and technical debt if not approached with a well-defined strategy.
