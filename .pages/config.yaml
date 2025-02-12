@@ -1,5 +1,5 @@
 title: My Docs
-baseURL: https://docs-url.com
+baseURL: https://eficode-academy.github.io/On-prem_Kubernetes_Guide
 languageCode: en-us
 # theme: hugo-theme-relearn
 summaryLength: 25
