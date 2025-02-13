@@ -17,6 +17,7 @@ markup:
     lineNumbersInTable: false
     noClasses: false
 params:
+  disableLandingPageButton: true
   disableLanguageSwitchingButton: true
   themeVariant:
     - auto:
