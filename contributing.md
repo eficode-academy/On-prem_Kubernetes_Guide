@@ -10,7 +10,9 @@ If you want to recommend a tool, the place to start is to write an Architecture 
 
 To add an ADR do the following:
 
-'insert super clever command from Kasper here'
+`hugo new --kind adr <DesiredFolder>/ADRs/<NameOfADRFile>.md --source .pages`
+
+Fill out the sections in the generated ADR
 
 Create a PR with the ADR and let the discussion begin. If the PR is approved, the status should be updated to 'accepted', and the ADR previously in place should be updated to superseded by ADR-0123.
 
