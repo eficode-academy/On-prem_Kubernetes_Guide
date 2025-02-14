@@ -1,4 +1,5 @@
 ---
 title: "How-To"
-hidden: true
+_build:
+  list: never
 ---

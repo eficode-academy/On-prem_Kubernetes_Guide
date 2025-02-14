@@ -1,5 +1,7 @@
 ---
 title: "Working with the guide"
+_build:
+  list: "never"  
 ---
  
 ## Rendering
