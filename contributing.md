@@ -1,4 +1,4 @@
-This guide is meant hold all of the experience from Eficodians working with Kubernetes, distilled into one an easily readable format.
+This guide is meant hold all of the experience from Eficodeans working with Kubernetes, distilled into one an easily readable format.
 
 This means, that we welcome all contributions to 'what is the right tech stack'.
 
