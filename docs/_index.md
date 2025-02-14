@@ -11,7 +11,7 @@ This guide delivers an opinionated, battle-tested roadmap for building a product
 - [Getting your software ready to work with Kubernetes](software_ready/_index.md)
 - [Working with Kubernetes](working_with_k8s/_index.md)
 
-Instead of presenting endless options, we provide clear, prescriptive recommendations for primary and secondary tooling, ensuring scalability, security, and maintainability without unnecessary complexity.
+Instead of presenting endless options, we provide clear, prescriptive recommendations for tooling, ensuring scalability, security, and maintainability without unnecessary complexity.
 
 By following this approach, organizations can confidently design, deploy, and sustain an optimized, resilient, and future-compatible Kubernetes cluster, making informed decisions that balance control, flexibility, and operational efficiency from day one.
 
@@ -25,4 +25,4 @@ With the introduction and key differences out of the way, we can now get into th
 - [Getting your software ready to work with Kubernetes](software_ready/_index.md)
 - [Working with Kubernetes](working_with_k8s/_index.md)
 
-For each of these pillars, we will be providing you with primary and secondary recommendations regarding tech-stack and any accompanying tools. These recommendations will go over the tools themselves and provide you with arguments for choosing them, as well as listing out common pitfalls and important points of consideration.
+For each of these pillars, we will be providing you with tool recommendations regarding tech-stack and any accompanying tools. These recommendations will go over the tools themselves and provide you with arguments for choosing them, as well as listing out common pitfalls and important points of consideration.

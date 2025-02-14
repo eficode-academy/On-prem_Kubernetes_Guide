@@ -1,12 +1,12 @@
 ---
-title: #{short title, representative of solved problem and found solution}
+title: "{{ replace .Name "-" " " | title }}"
+date: "{{ time.Now.Format "2006-01-02" }}"
 ---
+
 
 | status: | date: | decision-makers: |
 | --- | --- | --- |
-| {"proposed | rejected | accepted | deprecated | … | superseded by ADR-0123"} | {YYYY-MM-DD when the decision was last updated} | {list everyone involved in the decision} |
-
-
+| {"proposed \| rejected \| accepted \| deprecated \| … \| superseded by ADR-0123"} | {YYYY-MM-DD when the decision was last updated} | {list everyone involved in the decision} |
 
 
 ## Context and Problem Statement
