@@ -1,13 +1,10 @@
 ---
 title: "Working with the guide"
 ---
-# Documentation
-
-You will find the contents of the guide here.
  
 ## Rendering
 We use [Hugo](https://gohugo.io/) for page generation, we keep the configuration in the `/.pages` folder and then we
-have our contents here as Markdown.
+have our contents in the docs folder as Markdown.
 
 You can [install Hugo](https://gohugo.io/getting-started/installing/) with brew `brew install hugo` and [Go](https://go.dev) with `brew install go` then run the 
 following commands:
