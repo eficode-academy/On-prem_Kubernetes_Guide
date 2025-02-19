@@ -4,7 +4,7 @@ title: Use Cilium as Network Plugin
 
 | status: | date: | decision-makers: |
 | --- | --- | --- |
-| proposed | 2025-02-18 | Alexandra Aldershaab |
+| proposed | 2025-02-18 | Alexandra Aldershaab, Steffen Petersen |
 
 
 ## Context and Problem Statement
