@@ -7,13 +7,24 @@ on:
     paths:
       - .pages/**
       - docs/**
-      - .github/workflows/gh-pages.yaml
-      - README.md
+      - .github/workflows/gh-pages-pr.yaml
+      - '**.md'
 
 env:
   PLANTUML_VERSION: '1.2024.8'
 
 jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: markdownlint-cli2-action
+        uses: DavidAnson/markdownlint-cli2-action@v9
+        with:
+          globs: '**/*.md'
+
   build:
     runs-on: ubuntu-latest
     steps:
@@ -25,7 +36,7 @@ jobs:
         with:
           hugo-version: '0.129.0'
           extended: true
-
+      
       - name: Setup PlantUML
         run: |
           sudo apt-get update --yes
