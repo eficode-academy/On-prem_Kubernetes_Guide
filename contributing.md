@@ -1,3 +1,5 @@
+# Contributing
+
 This guide is meant hold all of the experience from Eficodeans working with Kubernetes, distilled into one easily readable guide.
 
 This means, that we welcome all contributions to 'what is the right tech stack'.
@@ -6,11 +8,13 @@ There are fundamentally 2 ways to contribute to this guide: recommend a tool, an
 
 ## Recommend a tool
 
-If you want to recommend a tool, the place to start is to write an Architecture Decision Record (ADR). All tools recommended in the guide is reflected in an ADR. 
+If you want to recommend a tool, the place to start is to write an Architecture Decision Record (ADR). All tools recommended in the guide is reflected in an ADR.
 
 To add an ADR do the following:
 
-`hugo new --kind adr <DesiredFolder>/ADRs/<NameOfADRFile>.md --source .pages`
+```shell
+hugo new --kind adr <DesiredFolder>/ADRs/<NameOfADRFile>.md --source .pages
+```
 
 Fill out the sections in the generated ADR
 
