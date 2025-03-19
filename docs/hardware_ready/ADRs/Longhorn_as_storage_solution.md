@@ -6,7 +6,7 @@ date: "2025-03-18"
 
 | status: | date: | decision-makers: |
 | --- | --- | --- |
-| proposed | 2025-03-18 | Sofus Albertsen |
+| approved | 2025-03-18 | Sofus Albertsen |
 
 
 ## Context and Problem Statement
