@@ -54,8 +54,10 @@ You can use either Devbox or Dev Containers to set up a consistent development e
 To preview the website locally while making changes:
 
 1. Run the Hugo development server:
-   ```
+
+   ```sh
    hugo server --source .pages
    ```
-2. Open your browser and navigate to `http://localhost:1313/On-prem_Kubernetes_Guide/ `
+
+2. Open your browser and navigate to `http://localhost:1313/On-prem_Kubernetes_Guide/`
 3. The website will automatically refresh when you make changes to the source files
