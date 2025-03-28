@@ -8,10 +8,10 @@ date: "2025-02-25"
 | --- | --- | --- |
 | proposed | 2025-02-25 | Sofus Albertsen |
 
-
 ## Context and Problem Statement
 
 Choosing the right operating system for your Kubernetes cluster is crucial for stability, security, and operational efficiency.  The OS should be optimized for container workloads, minimize overhead, and integrate well with Infrastructure as Code (IaC) practices.
+
 ## Considered Options
 
 * Talos OS
@@ -37,4 +37,4 @@ While their dashboards can simplify initial setup, they can also encourage "clic
 
 * **Bad:**  The learning curve for Talos OS might be steeper initially for teams unfamiliar with its API-driven approach.
 * **Bad:**  The lack of a graphical user interface might be a drawback for some users accustomed to traditional OS management.
-* **Bad:** Talos is a relatively newer project compared to OpenShift or Rancher, therefore community support and available resources might be smaller. 
+* **Bad:** Talos is a relatively newer project compared to OpenShift or Rancher, therefore community support and available resources might be smaller.
