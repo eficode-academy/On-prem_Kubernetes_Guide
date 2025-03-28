@@ -8,7 +8,6 @@ date: "{{ time.Now.Format "2006-01-02" }}"
 | --- | --- | --- |
 | {"proposed \| rejected \| accepted \| deprecated \| … \| superseded by ADR-0123"} | {YYYY-MM-DD when the decision was last updated} | {list everyone involved in the decision} |
 
-
 ## Context and Problem Statement
 
 {Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}
