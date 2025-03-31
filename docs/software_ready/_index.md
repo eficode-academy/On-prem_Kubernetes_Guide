@@ -6,7 +6,7 @@ title: Getting your software ready
 
 | Problem domain | Description | Reason for importance | Tool recommendation |
 |:---:|:---:|:---:|:---:|
-| Image Registry | A common place to store and fetch images | High availability, secure access control | |
+| Image Registry | A common place to store and fetch images | High availability, secure access control | [Harbor](ADRs/harbor_as_image_registry.md) |
 | Secret Management | Securely store and manage sensitive information like passwords and API keys | Prevent unauthorized access and data leaks | |
 | Ingress Controller / Gateway API | Manage external access to services in the cluster | Enable routing, load balancing, and secure communication | |
 | GitOps / Deployment Pipelines | Automate application deployments using Git as the source of truth | Ensure consistency, traceability, and faster deployments | |
