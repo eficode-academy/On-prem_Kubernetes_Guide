@@ -13,7 +13,7 @@ If you want to recommend a tool, the place to start is to write an Architecture 
 To add an ADR do the following:
 
 ```shell
-hugo new --kind adr <DesiredFolder>/ADRs/<NameOfADRFile>.md --source .pages
+hugo new --kind adr <Desired_Folder>/ADRs/<Name_Of_ADR_File>.md --source .pages
 ```
 
 Fill out the sections in the generated ADR
