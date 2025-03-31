@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .Name "_" " " | title }}"
 date: "{{ time.Now.Format "2006-01-02" }}"
 ---
 
