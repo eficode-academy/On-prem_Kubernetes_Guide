@@ -1,5 +1,5 @@
 ---
-title: "Harbor_as_image_registry"
+title: "Harbor as Image Registry"
 date: "2025-03-31"
 ---
 
