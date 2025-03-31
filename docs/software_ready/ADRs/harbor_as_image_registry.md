@@ -40,4 +40,3 @@ Chosen option: **Harbor**, because it provides a strong balance of features, ope
 
 * For organizations that require a cost-effective, Kubernetes-native solution with strong security features and support for Helm charts and OCI-compliant libraries, Harbor is an excellent choice.
 * For teams with complex artifact management needs and a budget for licensing, JFrog Artifactory may be a better fit due to its advanced features and broader artifact support.
-
