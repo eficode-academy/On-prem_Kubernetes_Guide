@@ -3,11 +3,9 @@ title: "Virtualisation"
 date: "2025-07-08"
 ---
 
-
 | status: | date: | decision-makers: |
 | --- | --- | --- |
 | proposed | 2025-07-08 | Alexandra Aldershaab |
-
 
 ## Context and Problem Statement
 
