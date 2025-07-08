@@ -1,5 +1,5 @@
 ---
-title: Use Cilium as Network Plugin
+title: "Network Plugin: Cilium"
 ---
 
 | status: | date: | decision-makers: |

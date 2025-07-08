@@ -1,5 +1,5 @@
 ---
-title: "Longhorn_as_storage_solution"
+title: "Storage Solution: Longhorn"
 date: "2025-03-18"
 ---
 
