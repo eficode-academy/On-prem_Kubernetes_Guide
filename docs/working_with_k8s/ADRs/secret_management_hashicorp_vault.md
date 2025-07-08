@@ -1,12 +1,12 @@
 ---
-title: "Hashicorp Vault as Secret Management"
+title: "Secret Management: Hashicorp Vault"
 date: "2025-04-14"
 ---
 
 
 | status: | date: | decision-makers: |
 | --- | --- | --- |
-| proposed | 2025-04-14 | Kasper Møller |
+| approved | 2025-04-14 | Kasper Møller |
 
 ## Context and Problem Statement
 

@@ -1,11 +1,11 @@
 ---
-title: "Harbor as Image Registry"
+title: "Image Registry: Habour"
 date: "2025-03-31"
 ---
 
 | status: | date: | decision-makers: |
 | --- | --- | --- |
-| proposed | 2025-03-31 | Kasper Møller |
+| approved | 2025-03-31 | Kasper Møller |
 
 ## Context and Problem Statement
 
