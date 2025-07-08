@@ -10,4 +10,3 @@ title: Getting your hardware ready
 | Container Runtime (CRI) | The software that is responsible for running containers | You need a working container runtime on each node in your cluster, so that the kubelet can launch pods and their containers |  |
 | Network plugin (CNI) | Plugin used for cluster networking | A CNI plugin is required to implement the Kubernetes network model | [Cilium](Cilium_as_network_plugin.md) |
 | Virtualisation | An optional layer between your hardware and your Kubernetes tech stack | In some scenarioes it might be benefitial to abstract the underlying hardeware away, and have everything running in virtual machines |  |
-
