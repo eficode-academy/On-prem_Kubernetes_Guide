@@ -3,6 +3,8 @@ title: Getting your hardware ready
 ---
 ## Decision Matrix
 
+This is a badass intro, that I have put here to demo being brilliant at Git for some students.
+
 | Problem domain | Description | Reason for importance | Tool recommendation |
 |:---:|:---:|:---:|:---:|
 | OS | The Operating System running on each of the hosts that will be part of your Kubernetes cluster | Choosing the right OS will be the foundation for building a production-grade Kubernetes cluster | [Talos Linux](hardware_ready/ADRs/os_talos_linux.md) |
