@@ -1,4 +1,4 @@
-module github.com/lego/novus-platform
+module github.com/eficode-academy/On-prem_Kubernetes_Guide
 
 go 1.22
 
